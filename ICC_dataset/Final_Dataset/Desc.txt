@@ -1,0 +1,8 @@
+OG Dataset - The 188 images and labels. 
+		This was split into Train and Val. 
+			Then was cropped to create patches of the original. 
+				Then 60% augmented, the augmented was added to the total(For every augmentation done this way).
+2nd Dataset - The 207 images and labels.
+		This was cropped first to create patches of the original ( = more dataset).
+			No Augmentation.
+				Splitted to Test Train and Val. So Test dataset will be done on this one.
